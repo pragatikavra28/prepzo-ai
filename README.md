@@ -138,7 +138,7 @@ Personalized Preparation Roadmap
 ### Clone Repository
 
 ```bash
-git clone https://github.com/prafulrajput14/Prepzo-AI.git
+git clone https://github.com/pragatikavra28/prepzo-ai.git
 ```
 
 ### Install Dependencies
@@ -193,9 +193,7 @@ This project strengthened practical knowledge in:
 
 ## 👨‍💻 Developer
 
-### Praful Kumar
-
-Final Year Computer Science Engineering Student at GLA University, Mathura.
+### Pragati Kavra
 
 Passionate about:
 
@@ -209,15 +207,13 @@ Passionate about:
 
 ## 🌐 Connect With Me
 
-**Portfolio:** https://prafulrajput14.github.io/My-Portfolio/
+**LinkedIn:** https://www.linkedin.com/in/pragati-kavra-018960279
 
-**LinkedIn:** https://www.linkedin.com/in/praful-kumar1401/
+**GitHub:** https://github.com/pragatikavra28
 
-**GitHub:** https://github.com/prafulrajput14
+**LeetCode:** https://leetcode.com/u/pragatikavra777/
 
-**LeetCode:** https://leetcode.com/u/prafulrajput_14/
-
-**Email:** [prafulkumar1401@gmail.com](mailto:prafulkumar1401@gmail.com)
+**Email:** [pragatikavra5@gmail.com](mailto:pragatikavra5@gmail.com)
 
 ---
 

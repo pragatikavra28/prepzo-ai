@@ -2,7 +2,7 @@
 
 > AI-Powered Interview Preparation Platform that helps job seekers analyze resumes, identify skill gaps, generate personalized interview strategies, and improve interview readiness for their target roles.
 
-🌐 **Live Demo:** https://prepzo-ai-five.vercel.app/login
+🌐 **Live Demo:** https://prepzo-ai-frontend.vercel.app/login
 
 ---
 

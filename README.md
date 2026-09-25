@@ -213,6 +213,8 @@ Passionate about:
 
 **LeetCode:** https://leetcode.com/u/pragatikavra777/
 
+**HackerRank:** https://www.hackerrank.com/profile/_2315001610
+
 **Email:** [pragatikavra5@gmail.com](mailto:pragatikavra5@gmail.com)
 
 ---
